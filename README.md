@@ -1,4 +1,4 @@
-# docs
+# Lean Canvas Template
 Lean Canvas teamplate for internal POs
 The Lean Canvas template for internal POs is a worksheet for capturing and exploring early stage business or product concepts. The template is based on a methodology elaborated by Ash Maurya in his blog and in his book entitled Running Lean. Ash's Lean Canvas is in turn based on the Business Model Canvas as described in the book Business Model Generation developed by Alex Osterwalder et al.
 
